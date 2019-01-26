@@ -1,0 +1,53 @@
+#H1 Meeting Notes 1/10/19
+---
+**Attendees**: Roger, Katie, Ramona, Alex, Joseph, Sloth, Jon, Diane
+---
+#H2 Scope of Meeting:
+
+1. How much can we actually do without spending money? 
+2. Research creative commons copyright – how do we “protect” open source projects?
+3. Project tracking
+4. What are we doing?
+5. How will we build it?
+6. How often will/can we meet to do it?
+7. Action items for next time
+
+#H2 Expectations
+
+1. Pick as many or as few action items as you want
+2. *Please* do the things you say you’ll do
+---
+#H2 Criteria for Project
+
+*	Full Stack
+*	No deadline
+---
+#H2 1st Project
+
+#H3 Calendly/Meetup Mashup App
+
+*	allows users to post availability
+*	connect w/ friends based on this
+*	decide what to do with time
+*	show times/dates
+*	shows interests (passive)
+*	Ask for specific stuff (active)
+---
+#H3 Front End
+
+**Base language**: JavaScript [JSON]
+**Framework**: React
+---
+#H3 Back End
+
+**Base language**: Node
+**Database**: GraphQL, Heroku, AmazonAWS (?)
+---
+#H2 Homework
+•	**Roger** - relationship b/w GraphQL, Node, Express, and Heroku
+•	**Joseph** - pitfalls of “open source” and how to keep things private ie API keys
+•	**Sloth** - create Project wiki
+•	**Jonathan** - next presenter (!)
+•	**Diane/Sloth** - update GitHub w/ notes 
+•	**Katie** - research (free) project  tracking/mgmt software (asana, trello, etc) 
+• **Everyone** - make sure you track your time (this mtg was 2hr 25 min)
